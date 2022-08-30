@@ -1,0 +1,121 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.opis {
+    box-sizing: border-box;
+    max-width: 1140px;
+    margin-bottom: auto
+}
+
+.baner {
+    margin-bottom: 50px;
+}
+
+.ikonki {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.icon {
+    width: 16.66%;
+}
+
+img {
+    width: 100%;
+}
+
+.main-headline {
+    text-align: center;
+    margin: 50px;
+}
+
+.bullet {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    
+}
+.obrazek, .tekst, .tekst-2, .obrazek-2 {
+    width: 49%;
+    length: 48%;
+    margin: 2% auto;
+}
+
+.tekst {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-left: 2%;
+}
+
+.bullet-2, .użycie {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+.tekst-2 {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+}
+
+.bullet-headline {
+    font-size: 16px;
+    text-align: start;
+}
+
+span {
+    border-radius: 50%;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    display: inline-flex;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.paragraf {
+    max-width: 523.6px;
+    margin-top: 0;
+    margin-left: 10px;
+}
+
+.punkt {
+    width: 558.59px;
+    display: flex;
+    flex-direction: row;
+}
+
+.punkt-2 {
+    width: 558.59px;
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+
+.obrazek-u {
+    width: 48%;
+}
+
+.koniec {
+    margin: 50px;
+}
+
+.logo {
+    width: 50%;
+    margin-left: 260px;
+}
+
