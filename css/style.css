@@ -119,3 +119,10 @@ span {
     margin-left: 260px;
 }
 
+/* Responsywność */
+
+@media (max-width: 1200px) {
+    .opis {
+        max-width: 992px;
+    }
+}
